@@ -1,4 +1,4 @@
-# Progetto di Programmazione Sicura ([CTF]Format0)
+# Progetto di Programmazione Sicura (CTF-Format0)
 
 ## Descrizione
 Questo progetto si concentra sulla risoluzione di una sfida CTF utilizzando la macchina virtuale [Protostar](https://exploit.education/protostar/).
